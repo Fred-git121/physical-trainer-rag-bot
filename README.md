@@ -26,13 +26,13 @@ Ensure your project folder is organized as follows before running the notebook:
 ```text
 physical-trainer-rag/
 │
-├── training_pdfs/          # 📂 PLACE YOUR PDF MANUALS HERE
+├── training_pdfs/          # PLACE YOUR PDF MANUALS HERE
 │   ├── manual_1.pdf
 │   └── manual_2.pdf
 │
-├── .env                    # 🔑 Store your API Key here (gitignored)
+├── .env                    # Store your API Key here (gitignored)
 ├── .gitignore              # Files to exclude from git
-├── notebook.ipynb          # 📓 The main application code
+├── notebook.ipynb          # The main application code
 ├── requirements.txt        # Python dependencies
 └── README.md               # This documentation
 
